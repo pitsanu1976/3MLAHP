@@ -28,5 +28,6 @@ st.title('3 Month Look Ahead Plan')
 
 
 st.markdown('#### Booking')
+st.markdown('### table booking')
 st.dataframe(df_Booking)
 
